@@ -7,8 +7,20 @@ permalink: /publications
 ---
 # Publications
 
-## 2023
 
-## 2022
+<div class="row">
+  {% assign publications = site.data.publications | sort: 'year' | reverse %}
 
-## 2021
+  {% for pub in publications %}
+  {% unless person.break %}
+  <div class="col-sm-12"> 
+  <p></p>
+  <p id="{{ pub.title }}">
+  <i> {{ pub.title }}</i><br/>{{ pub.authors }}<br/><b>{{ pub.reference }} ({{ pub.year }})</b>
+  </p>
+  </div>
+  {% endunless %}
+
+  {% endfor %}
+
+</div>

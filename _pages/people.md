@@ -32,8 +32,12 @@ permalink: /people
 </div>
 
 
+# Outreach
 
 ## GSoC
 
+Members of the lab have been actively involved in the [Google Summer of Code](https://summerofcode.withgoogle.com/) program, through the [INCF](https://incf.org) organisation.
+
 ## Outreachy
 
+Members of the lab have been mentors in the [Outreachy](https://www.outreachy.org/) program as part of <a href="https://modeci.org">ModECI - the Model Exchange and Convergence Initiative</a>.
