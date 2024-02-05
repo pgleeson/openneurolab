@@ -10,13 +10,13 @@ permalink: /
     background-image: url('{{ site.url }}{{ site.baseurl }}/images/osbmodels.png');
     background-size: 100%;
     background-repeat: no-repeat;
-    height: 320px
+    height: 420px
   ">
 <div class="titlebox">
 <div class="bigtitle">
-Gleeson Lab of Open Neuroscience & AI
+Gleeson Lab of Open Neuroscience & AI<br/>
+UCL
 </div>
-University College London
 </div>
 </div>
 </div>
@@ -35,7 +35,9 @@ University College London
 <br/>
 <h2>Overview</h2>
   <p>
-Modern experimental neuroscience is ... </p>
+The Gleeson lab is a new group in the department of <a href="https://www.ucl.ac.uk/biosciences/neuroscience-physiology-and-pharmacology">Neuroscience, Physiology and Pharmacology</a> at <a href="https://www.ucl.ac.uk">UCL</a>. The focus is on development and application of open neuroscience tools and resources to facilitate investigation of brain function, as well as unifying approaches to modelling networks across computational neuroscience and AI/machine learning.</p> 
+
+<p> Technologies which are being developed include the <a href="/research#osb"><b>Open Source Brain</b></a> model and data sharing platform, the <a href="/research#neuroml"><b>NeuroML</b></a> model description language for computational neuroscience, the <a href="/research#openworm"><b>OpenWorm project</b></a>, which aims to create a cell-by-cell simulation of the worm <i>C. elegans</i>. Additionally we contribute to <a href="/research#mdf"><b>MDF (Model Description Format)</b></a> which allows descriptions of models across computational neuroscience, machine learning and cognitive science.</p>
 
 
 
@@ -61,12 +63,17 @@ Modern experimental neuroscience is ... </p>
 The work of the lab has been generously supported by:</p>
 </div>
 
-<div class="col-sm-6 text-center" id="sponsorid">
-<a href="https://www.sainsburywellcome.org/">
-<img src="{{ site.url }}{{ site.baseurl }}/images/epsrc_logo.svg" class="img-fluid" alt="SWC logo"></a>
+<div class="col-sm-4 text-center" id="sponsorid">
+<a href="https://www.ukri.org/councils/epsrc/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/ukri-epsrc-square-logo.png" class="img-fluid" alt="EPSRC logo"></a>
 </div>
 
-<div class="col-sm-6 text-center" id="sponsorid">
+<div class="col-sm-4 text-center" id="sponsorid">
+<a href="https://www.kavlifoundation.org/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/the_kavli_logo.jpg" class="img-fluid" alt="Kavli logo"></a>
+</div>
+
+<div class="col-sm-4 text-center" id="sponsorid">
 <a href="https://www.wellcome.org/">
 <img src="{{ site.url }}{{ site.baseurl }}/images/wellcome.png" class="img-fluid" alt="Wellcome logo"></a>
 </div>
