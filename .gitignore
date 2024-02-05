@@ -1,0 +1,5 @@
+/.hugo_build.lock
+/_site
+/run.sh
+/.jekyll-metadata
+.DS_Store
