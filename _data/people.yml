@@ -1,5 +1,5 @@
 - name: Padraig Gleeson
   title: Principal Research Fellow 
-  abstract: Dr. Gleeson is
+  abstract: Dr. Gleeson's work focuses on the development of tools and standards to facilitate the generation, analysis and sharing of models of biologically detailed neuronal networks. He has developed neuroConstruct, a freely available graphical application for constructing and analysing such models. <br/>He is also the main technical contributor to the NeuroML language for simulator independent model descriptions in neuroscience. He is leading development of the Open Source Brain repository which aims to facilitate the sharing of data in neuroscience and the collaborative development of neuronal models in an open source environment. <br/>His research activities include investigation of information processing in cerebellar and cortical microcircuits. He is also Project Director to the OpenWorm project, to create an <i>in-silico</i>, cell by cell model of the nematode <i>C. elegans</i>. <br/>More recently he become involved in an international collaboration, ModECI (Model Exchange and Convergence Initiative), which aims to unify representations of computational models across the fields computational neuroscience, cognitive science and machine learning.
   photo: PGleeson.jpg
 
