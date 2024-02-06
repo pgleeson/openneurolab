@@ -1,3 +1,9 @@
+- authors: Sinha A, Gleeson P, Marin B, Dura-Bernal S, Panagiotou S, Crook S, Cantarelli M, Cannon RC, Davison AP, Gurnani H, Silver RA
+  year: 2023
+  title: The NeuroML ecosystem for standardized multi-scale modeling in neuroscience
+  reference: bioRxiv 2023.12.07.570537
+  url: https://www.biorxiv.org/content/10.1101/2023.12.07.570537v1
+
 - authors: Gleeson P, Crook S, Turner D, Mantel K, Raunak M, Willke T, and Cohen JD
   year: 2023
   title: Integrating model development across computational neuroscience, cognitive science, and machine learning. 
