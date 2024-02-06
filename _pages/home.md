@@ -52,7 +52,7 @@ The Gleeson lab is a new group in the department of <a href="https://www.ucl.ac.
 <a href="/research#neuroml">NeuroML</a><br/>
 <a href="/research#openworm">OpenWorm</a><br/>
 <a href="/research#mdf">MDF</a>
-<br/><br/>Queries? <a href="/contact">Get in contact</a>!.
+<br/><br/>Questions? <a href="/contact">Get in contact</a>!
 <p></p>
 </div>
 

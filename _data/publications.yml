@@ -8,94 +8,131 @@
   year: 2023
   title: Integrating model development across computational neuroscience, cognitive science, and machine learning. 
   reference: Neuron 111 (10):1526-1530
+  url: https://www.sciencedirect.com/science/article/pii/S0896627323002611
 
 - authors: Birgiolas J, Haynes V, Gleeson P, Gerkin RC, Dietrich SW and Crook S
   year: 2023
   title: "NeuroML-DB: Sharing and characterizing data-driven neuroscience models described in NeuroML."
   reference: PLoS Computational Biology 19 (3), e1010941
+  url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010941
 
 - authors: Griffiths JD, Shen K and Gleeson P
   year: 2022
   title: "Editorial: Neuroinformatics of large-scale brain modelling." 
   reference: Frontiers in Neuroinformatics, 16, 1043732
+  url: https://www.frontiersin.org/articles/10.3389/fninf.2022.1043732/full
 
 - authors: Dai K, Hernando J, Billeh YN, Gratiy SL, Planas J, Davison AP, Dura-Bernal S, Gleeson P, … (17 authors), Arkhipov A
   year: 2020
   title: The SONATA data format for efficient description of large-scale network models.  
   reference: PLOS Computational Biology 16(2):e1007696
+  url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007696
 
 - authors: Gleeson P, Cantarelli M, Marin B, Quintana A, Earnshaw M, … (27 authors), Silver RA
   year: 2019
   title: "Open Source Brain: a collaborative resource for visualizing, analyzing, simulating and developing standardized models of neurons and circuits."  
   reference: Neuron 103 (3):395–411
+  url: https://www.sciencedirect.com/science/article/pii/S0896627319304441?via%3Dihub
 
 - authors: Poldrack RA, Feingold F, Frank MJ, Gleeson P, … (15 authors), Cohen JD
   year: 2019
   title: The Importance of Standards for Sharing of Computational Models and Data.  
   reference: Computational Brain & Behavior 2, 229–232
+  url: https://link.springer.com/article/10.1007/s42113-019-00062-x
 
 - authors: Dura-Bernal S, Suter BA, Gleeson P, Cantarelli M, Quintana A, … (14 authors), Lytton WW
   year: 2019
   title: NetPyNE, a tool for data-driven multiscale modeling of brain circuits.  
   reference: eLife 8, e44494
+  url: https://elifesciences.org/articles/44494
 
 - authors: Gleeson P, Lung D, Grosu R, Hasani R and Larson SD
   year: 2018
   title: "c302: a multiscale framework for modelling the nervous system of Caenorhabditis elegans."
   reference: Phil. Trans. R. Soc. B 373 20170379
+  url: https://royalsocietypublishing.org/doi/10.1098/rstb.2017.0379
 
 - authors: Cantarelli M, Marin B, Quintana A, Earnshaw M, Court R, Gleeson P, Dura-Bernal S, Silver RA, and Idili G
   year: 2018
   title: "Geppetto: a reusable modular open platform for exploring neuroscience data and models."  
   reference: Phil. Trans. R. Soc. B 373 20170380
+  url: https://royalsocietypublishing.org/doi/10.1098/rstb.2017.0380
+
+- authors: Sarma GP, Lee CW, Portegys T, Ghayoomie V, Jacobs T, Alicea B, Cantarelli M, Currie M, Gerkin RC, Gingell S, Gleeson P, Gordon R, Hasani RM, Idili G, Khayrulin S, Lung D, Palyanov A, Watts M and Larson SD
+  year: 2018
+  title: "OpenWorm: overview and recent advances in integrative biological simulation of Caenorhabditis elegans"  
+  reference: Phil. Trans. R. Soc. B 373 20170382 
+  url: https://royalsocietypublishing.org/doi/10.1098/rstb.2017.0382
 
 - authors: Blundell I, Brette R, Cleland TA, Close TG, Coca D, Davison AP, Diaz-Pier S, Fernandez Musoles C, Gleeson P, … (29  authors), Eppler JM
   year: 2018
   title: "Code Generation in Computational Neuroscience: A Review of Tools and Techniques."  
   reference: Frontiers in Neuroinformatics 12:68
+  url: https://www.frontiersin.org/articles/10.3389/fninf.2018.00068/full
 
 - authors: Gleeson P, Davison, AP, Silver, RA, and Ascoli, GA
   year: 2017
   title: A Commitment to Open Source in Neuroscience.  
   reference: Neuron 96, 964–965
+  url: https://www.sciencedirect.com/science/article/pii/S0896627317309819
 
 - authors: Eglen SJ, Marwick B., Halchenko YO, Hanke M, Sufi S, Gleeson P, … (14 authors), Poline JB
   year: 2017
   title: Toward standard practices for sharing computer code and programs in neuroscience.  
   reference: Nature Neuroscience 20, 770–773
+  url: https://www.nature.com/articles/nn.4550
 
 - authors: Cannon RC*, Gleeson P*, Crook S, Ganapathy G, Marin B, Piasini E and Silver RA
   year: 2014
   title: "LEMS: a language for expressing complex biological models in concise and hierarchical form and its use in underpinning NeuroML 2."  
   reference: Frontiers in Neuroinformatics 8:79
+  url: https://www.frontiersin.org/articles/10.3389/fninf.2014.00079/full
 
 - authors: Szigeti B, Gleeson P, Vella M, Khayrulin S, Palyanov A, Hokanson J, Currie M, Cantarelli M, Idili G and Larson S
   year: 2014
   title: "OpenWorm: an open-science approach to modeling Caenorhabditis elegans."  
   reference: Frontiers in Computational Neuroscience 8:137
+  url: https://www.frontiersin.org/articles/10.3389/fncom.2014.00137/full
 
 - authors: Farinella M, Ruedt DT, Gleeson P, Lanore F, Silver, RA
   year: 2014
   title: Glutamate-bound NMDARs arising from in vivo-like network activity extend spatio-temporal integration in a L5 cortical pyramidal cell model.  
   reference: PLOS Computational Biology 10(4):e1003590
+  url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003590
 
 - authors: Vella M, Robinson HPC, Cannon RC, Ganapathy G, Crook S, Davison AP, Silver RA, Gleeson P
   year: 2014
   title: "libNeuroML and PyLEMS: Using Python to combine procedural and declarative modeling approaches in computational neuroscience."  
   reference: Frontiers in Neuroinformatics 8:38
+  url: https://www.frontiersin.org/articles/10.3389/fninf.2014.00038/full
+
+- authors: Howarth C, Gleeson P and Attwell D
+  year: 2012
+  title: Updated energy budgets for neural computation in the neocortex and cerebellum
+  reference: J Cereb Blood Flow Metab. 32(7):1222-32
+  url: https://doi.org/10.1038/jcbfm.2012.35
 
 - authors: Gleeson P, Crook S, Cannon RC, Hines ML, Billings GO, Farinella M, Morse TM, Davison AP, Ray S, Bhalla US, Barnes SR, Dimitrova YD, Silver RA
   year: 2010
   title: "NeuroML: A language for describing data driven models of neurons and networks with a high degree of biological detail."  
   reference: PLOS Computational Biology 6(6):e1000, 815
+  url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000815
 
 - authors: Vervaeke K, Lorincz A, Gleeson P, Farinella M, Nusser Z, Silver RA
   year: 2010
   title: Rapid desynchronization of an electrically coupled interneuron network with sparse excitatory synaptic input.  
   reference: Neuron 67(3):435451
+  url: https://www.sciencedirect.com/science/article/pii/S089662731000512X?via%3Dihub
 
 - authors: Gleeson P, Steuber V, Silver RA
   year: 2007
   title: "neuroConstruct: a tool for modeling networks of neurons in 3D space."  
   reference: Neuron 54(2):219-235
+  url: https://www.sciencedirect.com/science/article/pii/S0896627307002486?via%3Dihub
+
+- authors: Crook S, Gleeson P, Howell F, Svitak J and Silver RA
+  year: 2007
+  title: "MorphML: Level 1 of the NeuroML Standards for Neuronal Morphology Data and Model Specification"
+  reference: Neuroinformatics 5, 96–104
+  url: https://link.springer.com/article/10.1007/s12021-007-0003-6
 
