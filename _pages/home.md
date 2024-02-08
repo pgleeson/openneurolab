@@ -51,7 +51,7 @@ UCL
 <a href="/research#neuroml">NeuroML</a><br/>
 <a href="/research#openworm">OpenWorm</a><br/>
 <a href="/research#mdf">MDF</a>
-<br/><br/>Questions? <a href="/contact">Get in contact</a>!
+<br/><br/>Questions? <a href="/contact">Get in contact!</a>
 <p></p>
 </div>
 
