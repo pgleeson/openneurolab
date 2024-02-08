@@ -7,6 +7,9 @@ permalink: /research
 ---
 # Research
 
+
+<p align="center"><img src="{{ site.url }}{{ site.baseurl }}/images/Interconnected.png" style="max-width: 80%; float: centre" alt="Interconnected research topics"></p>
+
 <section id="osb">
 <h2>Open Source Brain</h2>
 
