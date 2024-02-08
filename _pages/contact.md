@@ -7,7 +7,7 @@ permalink: /contact
 ---
 
 <div class="col-sm-12 text-center">
-<h2><a href="https://www.sainsburywellcome.org">Get in contact</a></h2>
+<h2>Get in contact</h2>
 
 <p>Email: <b>p dot gleeson -at- ucl dot ac dot uk</b></p>
 <p>

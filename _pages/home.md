@@ -34,10 +34,9 @@ UCL
 <div class="col-sm-9">
 <br/>
 <h2>Overview</h2>
-  <p>
-The Gleeson lab is a new group in the department of <a href="https://www.ucl.ac.uk/biosciences/neuroscience-physiology-and-pharmacology">Neuroscience, Physiology and Pharmacology</a> at <a href="https://www.ucl.ac.uk">UCL</a>. The focus is on development and application of open neuroscience tools and resources to facilitate investigation of brain function, as well as unifying approaches to modelling networks across computational neuroscience and AI/machine learning.</p> 
+<p>The Gleeson lab is a new group in the department of <a href="https://www.ucl.ac.uk/biosciences/neuroscience-physiology-and-pharmacology">Neuroscience, Physiology and Pharmacology</a> at <a href="https://www.ucl.ac.uk">University College London</a>. The focus is on development and application of open neuroscience tools and resources to facilitate investigation of brain function, as well as unifying approaches to modelling networks across computational neuroscience and AI/machine learning.</p> 
 
-<p> Technologies which are being developed include the <a href="/research#osb"><b>Open Source Brain</b></a> model and data sharing platform, the <a href="/research#neuroml"><b>NeuroML</b></a> model description language for computational neuroscience and the <a href="/research#openworm"><b>OpenWorm project</b></a>, which aims to create a cell-by-cell simulation of the worm <i>C. elegans</i>. Additionally, we contribute to the development of <a href="/research#mdf"><b>MDF (Model Description Format)</b></a>, which allows specification of models across computational neuroscience, machine learning and cognitive science.</p>
+<p>Initiatives we contribute to include the <a href="/research#osb"><b>Open Source Brain</b></a> model and data sharing platform, the <a href="/research#neuroml"><b>NeuroML</b></a> model description language for computational neuroscience and the <a href="/research#openworm"><b>OpenWorm project</b></a>, which aims to create a cell-by-cell simulation of the worm <i>C. elegans</i>. Additionally, we contribute to the development of <a href="/research#mdf"><b>MDF (Model Description Format)</b></a>, which allows specification of models across computational neuroscience, machine learning and cognitive science.</p>
 
 
 
