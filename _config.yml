@@ -23,7 +23,7 @@ title: "Gleeson Lab of Open Neuroscience & AI"
 description: >- # this means to ignore newlines until "baseurl:"
   Gleeson Lab of Open Neuroscience & AI
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.openneurolab.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.openneuroai.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 sass:
   sass_dir: _sass
