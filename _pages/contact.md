@@ -11,11 +11,11 @@ permalink: /contact
 
 <p>Email: <b>p dot gleeson -at- ucl dot ac dot uk</b></p>
 <p>
-Room 321, Anatomy Building<br/>
-Department of Neuroscience, Physiology & Pharmacology<br/>
-University College London<br/>
-Gower Street<br/>
-London WC1E 6BT<br/>
+Room 321, Anatomy Building,<br/>
+Department of Neuroscience, Physiology & Pharmacology,<br/>
+University College London,<br/>
+Gower Street,<br/>
+London WC1E 6BT,<br/>
 United Kingdom <br/>
 </p>
 
