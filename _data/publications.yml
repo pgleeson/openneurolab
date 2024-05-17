@@ -1,8 +1,8 @@
-- authors: Sinha A, Gleeson P, Marin B, Dura-Bernal S, Panagiotou S, Crook S, Cantarelli M, Cannon RC, Davison AP, Gurnani H, Silver RA
-  year: 2023
+- authors: Sinha A*, Gleeson P*, Marin B, Dura-Bernal S, Panagiotou S, Crook S, Cantarelli M, Cannon RC, Davison AP, Gurnani H, Silver RA
+  year: 2024
   title: The NeuroML ecosystem for standardized multi-scale modeling in neuroscience
-  reference: bioRxiv 2023.12.07.570537
-  url: https://www.biorxiv.org/content/10.1101/2023.12.07.570537v1
+  reference: eLife 13:RP95135
+  url: https://elifesciences.org/reviewed-preprints/95135
 
 - authors: Gleeson P, Crook S, Turner D, Mantel K, Raunak M, Willke T, and Cohen JD
   year: 2023
