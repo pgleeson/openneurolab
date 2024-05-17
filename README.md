@@ -1,7 +1,9 @@
-# OpenNeuroLab website
+# Open NeuroLab website
 
-Live at: https://www.???.org. 
+Gleeson Lab of Open Neuroscience & AI
 
-See https://www.???.org/aboutwebsite for details about the source of this website. 
+Live at: https://openneuroai.org
+
+See https://openneuroai.org/aboutwebsite for details about the source of this website. 
 
 
