@@ -13,7 +13,7 @@ permalink: /research
 <section id="osb">
 <h2>Open Source Brain</h2>
 
-<a href="https://www.opensourcebrain.org">Open Source Brain</a> is a web based platform for sharing computational models and experimental data in neuroscience. It promotes open, collaborative development of data-driven models of neural systems. Standards are used to ensure accessibility and reusability - NeuroML for models and NeuroData Without Borders for data.
+<a href="https://www.opensourcebrain.org">Open Source Brain</a> is a web based platform for sharing computational models and experimental data in neuroscience. It promotes open, collaborative development of data-driven models of neural systems. Standards are used to ensure accessibility and reusability - NeuroML for models and NeuroData Without Borders (NWB) for data.
 <br/>
 <br/>
 <p align="center"><a href="https://docs.opensourcebrain.org"><b>More info</b></a> | <a href="https://www.sciencedirect.com/science/article/pii/S0896627319304441?via%3Dihub"><b>Reference (OSBv1)</b></a> | <a href="https://github.com/opensourcebrain"><b>Code</b></a></p>
@@ -25,7 +25,7 @@ permalink: /research
 <a href="https://www.neuroml.org">NeuroML</a> is a specification language for building and exchanging models of neurons and circuits, ranging from simple integrate and fire point neurons to 3D networks of morphologically detailed conductance based cell models. 
 <br/>
 <br/>
-<p align="center"><a href="https://docs.neuroml.org"><b>More info</b></a> | <a href="https://www.biorxiv.org/content/10.1101/2023.12.07.570537v1"><b>Reference</b></a> | <a href="https://github.com/neuroml"><b>Code</b></a></p>
+<p align="center"><a href="https://docs.neuroml.org"><b>More info</b></a> | <a href="https://elifesciences.org/reviewed-preprints/95135"><b>Reference</b></a> | <a href="https://github.com/neuroml"><b>Code</b></a></p>
 
 </section>
 
