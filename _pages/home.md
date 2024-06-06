@@ -24,9 +24,7 @@ UCL
 <div class="col-sm-12 d-lg-none">
 <div class="titlebox">
 <div class="bigtitle">
-???
 </div>
-???
 </div>
 <img src="{{ site.url }}{{ site.baseurl }}/images/osbmodels.png">
 </div>

@@ -16,7 +16,7 @@ permalink: /publications
   <div class="col-sm-12"> 
   <p></p>
   <p id="{{ pub.title }}">
-  <i> {% if pub.url %}<b><a href="{{ pub.url }}">{{ pub.title }}</a></b> {% else %}{{ pub.title }} {% endif %} </i><br/>{{ pub.authors }}<br/><b>{{ pub.reference }} ({{ pub.year }})</b>
+  <i> {% if pub.url %}<b><a href="{{ pub.url }}">{{ pub.title }}</a></b> {% else %}{{ pub.title }} {% endif %} </i><br/>{{ pub.authors }}<br/><b>{{ pub.reference }} ({{ pub.year }})</b> {% if pub.extra %}<br/>{{ pub.extra }}{% endif %}
   </p>
   </div>
   {% endunless %}
