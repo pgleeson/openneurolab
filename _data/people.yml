@@ -4,16 +4,22 @@
   photo: PGleeson.jpg
 
 - name: Ankur Sinha
-  title: Postdoctoral Researcher (co-supervised with R. Angus Silver)
+  title: Postdoctoral Researcher
   abstract: Dr. Sinha is contributing to the Kavli Foundation funded project "Tools and standards for single-cell modeling in neuroscience". He is also a key contributor to the <a href="/research#neuroml"><b>NeuroML</b></a> model development language and the <a href="/research#osb"><b>Open Source Brain</b></a> initiative. 
 
-
-- name: Jason Xanthakis
+- name: Danial Kusmanov
   title: BSc Neuroscience student
-  abstract: "Project title: Modelling Human Neural Circuits Across Scales of Complexity"
+  abstract: "<b>Project title:</b> Development and standardisation of biophysically detailed models of neurons and muscles of <i>C. elegans</i>"
+
+- name: Jan Uher
+  title: BSc Neuroscience student
+  abstract: "<b>Project title:</b> Use of fine-tuned Large Language Models to constrain and validate computational models of <i>C. elegans</i>"
 
 - name: Yasinthan Vickneswaran
   title: iBSc Neuroscience student
-  abstract: "Project title: Consolidating neuroinformatics resources related to C. elegans connectomics"
+  abstract: "<b>Project title:</b> Consolidating neuroinformatics resources related to <i>C. elegans</i> connectomics"
 
-
+- name: Jason Xanthakis
+  title: BSc Neuroscience student
+  abstract: "<b>Project title:</b> Modelling Human Neural Circuits Across Scales of Complexity"
+  past: true
