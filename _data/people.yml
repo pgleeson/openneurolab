@@ -14,10 +14,12 @@
 - name: Danial Kusmanov
   title: BSc Neuroscience student
   abstract: "<b>Project title:</b> Development and standardisation of biophysically detailed models of neurons and muscles of <i>C. elegans</i>"
-
+  past: true
+  
 - name: Jan Uher
   title: BSc Neuroscience student
   abstract: "<b>Project title:</b> Use of fine-tuned Large Language Models to constrain and validate computational models of <i>C. elegans</i>"
+  past: true
 
 - name: Yasinthan Vickneswaran
   title: iBSc Neuroscience student
