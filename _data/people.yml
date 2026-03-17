@@ -15,15 +15,19 @@
   title: BSc Neuroscience student
   abstract: "<b>Project title:</b> Development and standardisation of biophysically detailed models of neurons and muscles of <i>C. elegans</i>"
   past: true
-  
+
 - name: Jan Uher
   title: BSc Neuroscience student
   abstract: "<b>Project title:</b> Use of fine-tuned Large Language Models to constrain and validate computational models of <i>C. elegans</i>"
   past: true
 
 - name: Yasinthan Vickneswaran
-  title: iBSc Neuroscience student
-  abstract: "<b>Project title:</b> Consolidating neuroinformatics resources related to <i>C. elegans</i> connectomics"
+  title: MBBS Medical Student
+  abstract: <b>Project:</b> Consolidating neuroinformatics resources related to <i>C. elegans</i> connectomics, contributing to the <a href="http://openworm.org/ConnectomeToolbox"><i>C. elegans</i> Connectome Toolbox</a>.
+
+- name: Sabarish Ganesh
+  title: MSc Neuroscience student
+  abstract: <b>Project title:</b> Evidence-Grounded Language Models for Computational Neuroscience Workflows - A Provenance-First, Tool-Augmented RAG Framework for <i>C. elegans</i> Research
 
 - name: Jason Xanthakis
   title: BSc Neuroscience student
