@@ -60,19 +60,24 @@ UCL
 The work of the lab has been generously supported by:</p>
 </div>
 
-<div class="col-sm-4 text-center" id="sponsorid">
+<div class="col-sm-3 text-center" id="sponsorid">
 <a href="https://www.ukri.org/councils/epsrc/">
 <img src="{{ site.url }}{{ site.baseurl }}/images/ukri-epsrc-square-logo.png" class="img-fluid" alt="EPSRC logo"></a>
 </div>
 
-<div class="col-sm-4 text-center" id="sponsorid">
+<div class="col-sm-3 text-center" id="sponsorid">
 <a href="https://www.kavlifoundation.org/">
 <img src="{{ site.url }}{{ site.baseurl }}/images/the_kavli_logo.jpg" class="img-fluid" alt="Kavli logo"></a>
 </div>
 
-<div class="col-sm-4 text-center" id="sponsorid">
+<div class="col-sm-3 text-center" id="sponsorid">
 <a href="https://www.wellcome.org/">
 <img src="{{ site.url }}{{ site.baseurl }}/images/wellcome.png" class="img-fluid" alt="Wellcome logo"></a>
+</div>
+
+<div class="col-sm-3 text-center" id="sponsorid">
+<a href="https://biofair.uk/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/biofair.png" class="img-fluid" alt="BioFAIR logo"></a>
 </div>
 
 <div class="col-sm-12">
