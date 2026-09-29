@@ -32,7 +32,7 @@ permalink: /research
 <section id="openworm">
 
 <h2>OpenWorm</h2>
-The <a href="https://www.openworm.org">OpenWorm project</a> is global collaboration to create an open source, cell-by-cell computer simulation of the nematode <i><a href="http://www.wormbook.org">C. elegans</a></i>. A simulation of the nervous system of the worm in NeuroML format has been linked to a 3D model of the body of the worm which can interact with a simulated external environment.
+The <a href="https://www.openworm.org">OpenWorm project</a> is a global collaboration to create an open source, cell-by-cell computer simulation of the nematode <i><a href="http://www.wormbook.org">C. elegans</a></i>. A simulation of the nervous system of the worm in NeuroML format has been linked to a 3D model of the body of the worm which can interact with a simulated external environment.
 <br/>
 <br/>
 <p align="center"><a href="https://docs.openworm.org"><b>More info</b></a> | <a href="https://royalsocietypublishing.org/doi/10.1098/rstb.2017.0382"><b>Reference</b></a> | <a href="https://github.com/openworm"><b>Code</b></a></p>
@@ -40,7 +40,7 @@ The <a href="https://www.openworm.org">OpenWorm project</a> is global collaborat
 
 <section id="mdf">
 <h2>MDF - Model Description Format</h2>
-The motivation for <a href="https://mdf.readthedocs.io/en/latest/api/QuickStart.html">MDF (Model Description Format)</a> was the increasing use of neural networks across the fields computational neuroscience, machine learning and cognitive science to describe how networks intelligently process information. The MDF language, being developed by <a href="https://modeci.org">ModECI (Model Exchange and Convergence Initiative)</a>, is intended to be a unified way to describe network models as computational graphs across all of these disciplines. 
+The motivation for <a href="https://mdf.readthedocs.io/en/latest/api/QuickStart.html">MDF (Model Description Format)</a> was the increasing use of neural networks across the fields of computational neuroscience, machine learning and cognitive science to describe how networks intelligently process information. The MDF language, being developed by <a href="https://modeci.org">ModECI (Model Exchange and Convergence Initiative)</a>, is intended to be a unified way to describe network models as computational graphs across all of these disciplines. 
 <br/>
 <br/>
 <p align="center"><a href="https://mdf.readthedocs.io/en/latest/api/QuickStart.html"><b>More info</b></a> | <a href="https://www.sciencedirect.com/science/article/pii/S0896627323002611"><b>Reference</b></a> | <a href="https://github.com/ModECI/MDF"><b>Code</b></a></p>
